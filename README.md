@@ -2,11 +2,17 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+[Network Topology](https://github.com/FEPonce/Elk-Stack-Project/blob/main/Files/PJ1%20Network%20Top.jpg)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above.
 
-  - _TODO: Enter the playbook file._
+[Ansible.cfg](https://github.com/FEPonce/Elk-Stack-Project/blob/d68f2c2eb0d3cb21197c9f9425e075698208c63d/Files/ansible.cfg)
+[Filebeat-configuration.yml](https://github.com/FEPonce/Elk-Stack-Project/blob/d68f2c2eb0d3cb21197c9f9425e075698208c63d/Files/filebeat-configuration.yml)
+[Filebeat-playbook.yml](https://github.com/FEPonce/Elk-Stack-Project/blob/ade36afa2603c60276e9b2fcb2207e8a141418e7/Files/filebeat-playbook.yml)
+[Hosts file](https://github.com/FEPonce/Elk-Stack-Project/blob/d68f2c2eb0d3cb21197c9f9425e075698208c63d/Files/hosts)
+[Install-elk.yml](https://github.com/FEPonce/Elk-Stack-Project/blob/d68f2c2eb0d3cb21197c9f9425e075698208c63d/Files/install-elk.yml)
+[Metricbeat-configuration.yml](https://github.com/FEPonce/Elk-Stack-Project/blob/d68f2c2eb0d3cb21197c9f9425e075698208c63d/Files/metricbeat-configuration.yml)
+[Metricbeat-playbook.yml](https://github.com/FEPonce/Elk-Stack-Project/blob/d68f2c2eb0d3cb21197c9f9425e075698208c63d/Files/metricbeat-playbook.yml)
 
 This document contains the following details:
 - Description of the Topologu
